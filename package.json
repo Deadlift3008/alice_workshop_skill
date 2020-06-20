@@ -1,0 +1,25 @@
+{
+  "name": "alice-workshop",
+  "version": "1.0.0",
+  "description": "alice skill math teacher\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D: m\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[ath teacher",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalets/alice-workshop.git"
+  },
+  "author": "deadlift3008",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalets/alice-workshop/issues"
+  },
+  "homepage": "https://github.com/vitalets/alice-workshop#readme",
+  "dependencies": {
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
